@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: cap03.lab01
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: mlluis
+Implementation-Vendor-Id: es.michael.spring
+Build-Jdk: 1.8.0_202
+Implementation-URL: https://spring.io/projects/spring-boot/P5_APIRestF
+ ullConSpringData
+Created-By: Maven Integration for Eclipse
+
